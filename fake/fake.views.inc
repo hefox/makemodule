@@ -5,7 +5,7 @@ function fake_views_data() {
   return $data;
 }
 
-function fake_views_handlers() {
+/*function fake_views_handlers() {
   return array(
     'info' => array(
       'path' => drupal_get_path('module', 'fake'),
@@ -13,6 +13,6 @@ function fake_views_handlers() {
     'handlers' => array(
 		/*'' => array(
         	'parent' => 'views_handler_field',
-      ),*/
+      ),
   );
-}
+}*/
